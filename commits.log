@@ -1,17 +1,166 @@
-ead3c8c Agregando 2 párrafos
-886b906 Resolviendo conflicto en estaciones del año y fecha de inicio
-1bd7a74 Agregando estaciones del año con fecha de inicio
-8a7a0ca Agregando estaciones del año
-05dd197 Resolviendo conflicto merge main/html en el documento index.html
-a0869c1 Agregando index.js al index.html
-90830c5 Argegando styles.css al index.html
-8240ed9 Merge branch 'css'
-bd1b0e6 Modificando index.js
-fc739c7 Creando styles.css
-98b438a Creando index.html
-8823a1a Ignorando archivos .exe
-c43dcf4 Cambio en todos los archivos
-748eb1f Creando licencia del repositorio
-0df7fa2 Agregando mas cambios
-b985e60 Agregando contenido inicial al README
-17cb9ce Primer commit
+commit 94c3a891434a6f00577f116f10c8752b934853f2
+Merge: 01534ab 0f2dde4
+Author: vittoriolarrosa <139386496+vittoriolarrosa@users.noreply.github.com>
+Date:   Sun Jul 16 13:02:31 2023 -0300
+
+    Merge pull request #1 from vittosecundario/cambios-index
+    
+    Cambios index
+
+commit 0f2dde49d7bb73c0f9edbb45bc4c01d7a26eebe5
+Author: vittosecundario <victorio.larrosa1@gmail.com>
+Date:   Sun Jul 16 12:49:39 2023 -0300
+
+    Cambios
+
+commit 638afcef597e2f5de6af447d901e44ce45723a93
+Author: vittosecundario <victorio.larrosa1@gmail.com>
+Date:   Sun Jul 16 12:46:35 2023 -0300
+
+    Cambios minimos
+
+commit 01534ab13340c2551afb4e12137e7c2a63ec7601
+Merge: 93c68be d672410
+Author: vittoriolarrosa <vittorio.larrosa@gmail.com>
+Date:   Sat Jul 15 21:56:10 2023 -0300
+
+    Merge branch 'main' of https://github.com/vittoriolarrosa/curso-git
+
+commit 93c68be2f1ef8212e1e033054b05e6bf77695239
+Author: vittoriolarrosa <vittorio.larrosa@gmail.com>
+Date:   Sat Jul 15 21:31:12 2023 -0300
+
+    v1.0.0
+
+commit d672410dc3252096b565631da25561763d2325ce
+Merge: e85dbbe 63acd85
+Author: vittoriolarrosa <vittorio.larrosa@gmail.com>
+Date:   Sat Jul 15 15:58:40 2023 -0300
+
+    Merge branch 'main' of https://github.com/vittoriolarrosa/curso-git
+    
+    # Conflicts:
+    #       graph.log
+
+commit e85dbbe66bb820f2623b61552ed7fc48470ed20b
+Author: vittoriolarrosa <vittorio.larrosa@gmail.com>
+Date:   Sat Jul 15 15:24:06 2023 -0300
+
+    Respaldando logs del repositorio
+
+commit 63acd858e97f39bed540e5238b194a5610fa2258
+Author: vittoriolarrosa <vittorio.larrosa@gmail.com>
+Date:   Sat Jul 15 15:55:58 2023 -0300
+
+    Cacona
+
+commit 94a4fb7651eb795e2a90cd6a0a5b22b9540657b0
+Author: vittoriolarrosa <vittorio.larrosa@gmail.com>
+Date:   Sat Jul 15 15:24:06 2023 -0300
+
+    Respaldando logs del repositorio
+
+commit ead3c8cbb6e7aa65cc242d84627cc7a32b6aada8
+Author: vittoriolarrosa <vittorio.larrosa@gmail.com>
+Date:   Sat Jul 15 14:47:35 2023 -0300
+
+    Agregando 2 párrafos
+
+commit 886b90604d1047c5c0f8bbebae7c41b8ebfb2617
+Merge: 1bd7a74 8a7a0ca
+Author: vittoriolarrosa <vittorio.larrosa@gmail.com>
+Date:   Sat Jul 15 14:45:32 2023 -0300
+
+    Resolviendo conflicto en estaciones del año y fecha de inicio
+
+commit 1bd7a747510d4bf0f1d63f2bf0c5f43fe047bb8d
+Author: vittoriolarrosa <vittorio.larrosa@gmail.com>
+Date:   Sat Jul 15 14:05:55 2023 -0300
+
+    Agregando estaciones del año con fecha de inicio
+
+commit 8a7a0ca065937e71373d96a4e6e36d2cb0290c69
+Author: vittoriolarrosa <vittorio.larrosa@gmail.com>
+Date:   Sat Jul 15 14:05:55 2023 -0300
+
+    Agregando estaciones del año
+
+commit 05dd197de627b6eea64ed8d068483835f7c1d6de
+Merge: 90830c5 a0869c1
+Author: vittoriolarrosa <vittorio.larrosa@gmail.com>
+Date:   Sat Jul 15 13:58:07 2023 -0300
+
+    Resolviendo conflicto merge main/html en el documento index.html
+
+commit a0869c143498df66ebc16baf4a1a1eadff3677ab
+Author: vittoriolarrosa <vittorio.larrosa@gmail.com>
+Date:   Sat Jul 15 13:52:43 2023 -0300
+
+    Agregando index.js al index.html
+
+commit 90830c5960df340f060c6f91e6aea55c1e1cd7cf
+Author: vittoriolarrosa <vittorio.larrosa@gmail.com>
+Date:   Sat Jul 15 13:50:51 2023 -0300
+
+    Argegando styles.css al index.html
+
+commit 8240ed97e3e392ba3ecd4b45bdcf068c514ca665
+Merge: bd1b0e6 fc739c7
+Author: vittoriolarrosa <vittorio.larrosa@gmail.com>
+Date:   Fri Jul 14 23:24:19 2023 -0300
+
+    Merge branch 'css'
+
+commit bd1b0e61c044c4fe573ac3e5e6d4ccd3dbfcb099
+Author: vittoriolarrosa <vittorio.larrosa@gmail.com>
+Date:   Fri Jul 14 23:19:46 2023 -0300
+
+    Modificando index.js
+
+commit fc739c7a9281a5c2e2ef71103761e3ee7254dcb2
+Author: vittoriolarrosa <vittorio.larrosa@gmail.com>
+Date:   Fri Jul 14 23:11:25 2023 -0300
+
+    Creando styles.css
+
+commit 98b438a463f1a56b4002c4de3883c7d56ca226ec
+Author: vittoriolarrosa <vittorio.larrosa@gmail.com>
+Date:   Fri Jul 14 23:07:31 2023 -0300
+
+    Creando index.html
+
+commit 8823a1a9531ac86f170f6b7bdf80bbd5a987da9f
+Author: vittoriolarrosa <vittorio.larrosa@gmail.com>
+Date:   Fri Jul 14 22:48:04 2023 -0300
+
+    Ignorando archivos .exe
+
+commit c43dcf47040e8eb9cad362e062fea74f673f9cab
+Author: vittoriolarrosa <vittorio.larrosa@gmail.com>
+Date:   Fri Jul 14 22:23:15 2023 -0300
+
+    Cambio en todos los archivos
+
+commit 748eb1f9aef502c3bc52a388885d5af20ad6c529
+Author: vittoriolarrosa <139386496+vittoriolarrosa@users.noreply.github.com>
+Date:   Thu Jul 13 14:23:49 2023 -0300
+
+    Creando licencia del repositorio
+
+commit 0df7fa2ebe859ab7a89319a6d8fa3e73d4cb47fa
+Author: vittoriolarrosa <vittorio.larrosa@gmail.com>
+Date:   Thu Jul 13 14:18:01 2023 -0300
+
+    Agregando mas cambios
+
+commit b985e602d97ffd36b68c5d7184ddf30a31cfeddc
+Author: vittoriolarrosa <vittorio.larrosa@gmail.com>
+Date:   Thu Jul 13 13:46:14 2023 -0300
+
+    Agregando contenido inicial al README
+
+commit 17cb9cecb1655f0f9af87839969fd2b520089b2e
+Author: vittoriolarrosa <vittorio.larrosa@gmail.com>
+Date:   Thu Jul 13 13:34:12 2023 -0300
+
+    Primer commit
